@@ -1,4 +1,6 @@
 # CyberSecure Inc. – Client Intelligence Dashboard
+<img width="1337" height="642" alt="image" src="https://github.com/user-attachments/assets/cc304a66-139c-4b94-9a9f-9baa83a2f09f" />
+<video src="https://github.com/user-attachments/assets/2119e910-c020-4c4b-b5d7-90155605c9a1" width="352" height="500"></video>
 
 Welcome to CyberSecure Inc. Client Intelligence Dashboard, a modern web interface for monitoring and managing clients, projects, contracts, and invoices of a global cybersecurity firm. This dashboard is designed to handle sensitive and high-profile clients, including multinational corporations and government agencies.
 
